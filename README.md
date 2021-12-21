@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinsheep
 - 👀 I’m interested in Coding and algorithm
-- 🌱 I’m currently learning java and spring
+- 🌱 I’m currently learning java and vue
 - 📫 How to reach me sheepsx@qq.com
 
 <!---
